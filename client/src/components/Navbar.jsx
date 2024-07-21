@@ -2,7 +2,10 @@ import React from 'react'
 
 function Navbar() {
   return (
-	<div>Navbar</div>
+	<div>sample Navbar
+
+    <nav>this is navbar</nav>
+  </div>
   )
 }
 
